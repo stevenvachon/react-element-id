@@ -3,6 +3,8 @@
   "description": "A React context & hook for managing and asserting the uniqueness of explicitly defined DOM IDs.",
   "version": "1.0.0",
   "author": "Steven Vachon <contact@svachon.com> (https://svachon.com)",
+  "repository": "github:stevenvachon/react-element-id",
+  "license": "MIT",
   "type": "module",
   "exports": "./src/index.js",
   "peerDependencies": {
